@@ -1,0 +1,46 @@
+2022/11/22 08:00:58 [INFO] Downloading mysql:mysql-connector-java:5.1.46...
+2022/11/22 08:00:58 [INFO] Downloading org.xerial:sqlite-jdbc:3.21.0.1...
+2022/11/22 08:00:58 [INFO] Downloading org.apache.logging.log4j:log4j-core:2.8.2...
+2022/11/22 08:00:58 [INFO] Downloading org.apache.commons:commons-lang3:3.5...
+2022/11/22 08:00:58 [INFO] Downloading org.apache.logging.log4j:log4j-api:2.8.2...
+2022/11/22 08:00:59 [INFO] Downloaded org.apache.logging.log4j:log4j-api:2.8.2.
+2022/11/22 08:00:59 [INFO] Downloaded org.apache.commons:commons-lang3:3.5.
+2022/11/22 08:00:59 [INFO] Downloaded mysql:mysql-connector-java:5.1.46.
+2022/11/22 08:00:59 [INFO] Downloaded org.apache.logging.log4j:log4j-core:2.8.2.
+2022/11/22 08:01:00 [INFO] Downloaded org.xerial:sqlite-jdbc:3.21.0.1.
+2022/11/22 08:01:00 [INFO] Scanning plugins...
+2022/11/22 08:01:00 [INFO] Created default config: config/help.yml
+2022/11/22 08:01:01 [INFO] Using dyconit messaging system
+2022/11/22 08:01:01 [INFO] Dyconit System using policy: ChunkPolicy
+2022/11/22 08:01:01 [INFO] Preparing spawn for world...
+2022/11/22 08:01:02 [INFO] Preparing spawn for world: 0%
+2022/11/22 08:01:03 [INFO] Preparing spawn for world: 5%
+2022/11/22 08:01:04 [INFO] Preparing spawn for world: 19%
+2022/11/22 08:01:05 [INFO] Preparing spawn for world: 36%
+2022/11/22 08:01:06 [INFO] Preparing spawn for world: 58%
+2022/11/22 08:01:07 [INFO] Preparing spawn for world: 78%
+2022/11/22 08:01:08 [INFO] Preparing spawn for world: done
+2022/11/22 08:01:09 [INFO] Using dyconit messaging system
+2022/11/22 08:01:09 [INFO] Preparing spawn for world_nether...
+2022/11/22 08:01:10 [INFO] Preparing spawn for world_nether: 70%
+2022/11/22 08:01:10 [INFO] Preparing spawn for world_nether: done
+2022/11/22 08:01:10 [INFO] Using dyconit messaging system
+2022/11/22 08:01:10 [INFO] Preparing spawn for world_the_end...
+2022/11/22 08:01:10 [INFO] Preparing spawn for world_the_end: done
+2022/11/22 08:01:10 [INFO] Created default config: config/commands.yml
+2022/11/22 08:01:10 [INFO] Created default config: config/permissions.yml
+2022/11/22 08:01:11 [INFO] Binding server to 0.0.0.0:25565...
+2022/11/22 08:01:11 [INFO] Successfully bound server to 0.0.0.0:25565.
+2022/11/22 08:01:11 [INFO] Ready for connections.
+2022/11/22 08:36:12 [WARNING] Region "worlds/world_the_end/region/r.-1.0.mca" not aligned: 1604134 increasing by 1498
+2022/11/22 08:36:13 [WARNING] Region "worlds/world_the_end/region/r.-1.-1.mca" not aligned: 1079673 increasing by 1671
+2022/11/22 08:36:14 [WARNING] Region "worlds/world_the_end/region/r.0.-1.mca" not aligned: 848250 increasing by 3718
+2022/11/22 08:36:14 [WARNING] Region "worlds/world_the_end/region/r.0.0.mca" not aligned: 1237367 increasing by 3721
+2022/11/22 08:36:15 [WARNING] Region "worlds/world/region/r.1.-1.mca" not aligned: 6192251 increasing by 901
+2022/11/22 08:36:16 [WARNING] Region "worlds/world/region/r.0.-2.mca" not aligned: 5645244 increasing by 3140
+2022/11/22 08:36:17 [WARNING] Region "worlds/world/region/r.0.-1.mca" not aligned: 4279408 increasing by 912
+2022/11/22 08:46:12 [WARNING] Region "worlds/world_nether/region/r.0.-1.mca" not aligned: 3001038 increasing by 1330
+2022/11/22 08:46:13 [WARNING] Region "worlds/world_nether/region/r.0.0.mca" not aligned: 2677490 increasing by 1294
+2022/11/22 08:46:15 [WARNING] Region "worlds/world/region/r.1.-1.mca" not aligned: 6195446 increasing by 1802
+2022/11/22 08:46:16 [WARNING] Region "worlds/world/region/r.0.-2.mca" not aligned: 5646200 increasing by 2184
+2022/11/22 08:46:17 [WARNING] Region "worlds/world/region/r.0.-1.mca" not aligned: 4282592 increasing by 1824

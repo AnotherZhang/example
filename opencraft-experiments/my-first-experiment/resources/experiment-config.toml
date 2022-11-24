@@ -1,0 +1,4 @@
+iterations = 50
+
+[deployment]
+yardstick = [0, 1] # array of nodes to run yardstick on. Opencraft will run on node 0.
